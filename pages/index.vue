@@ -110,6 +110,7 @@ onMounted(async () => {
       </div>
       <p class="text-center text-[8px] sm:text-[12px] text-slate-400">
         声明：本站不产生/存储任何数据，也从未参与录制、上传，所有资源均来自网络。
+        @www.zy115.com
       </p>
     </div>
   </div>
